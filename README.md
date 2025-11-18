@@ -58,6 +58,9 @@ Business-ready, aggregated data optimized for analytics and reporting.
 - Notebook: `data_processing.ipynb`
 - Cleans, transforms, and aggregates data.
 - Generates Silver and Gold datasets for downstream reporting.
+![Top Expensive Producs](docs/Top_Expensive_Producs.png)
+
+![Top Prodcuts Sold](docs/Top_Prodcuts_Sold.png)
 
 ---
 
